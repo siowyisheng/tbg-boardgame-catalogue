@@ -1,0 +1,32 @@
+{
+  "name": "tbg-boardgame-catalogue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "seed": "tsx --env-file=.env scripts/seed.ts",
+    "fetch-bgg": "tsx --env-file=.env scripts/fetch-bgg.ts",
+    "typecheck": "tsc -b && tsc -p tsconfig.server.json"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.119.0",
+    "fast-xml-parser": "^5.12.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vercel/node": "^30.0.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "oxlint": "^1.90.0",
+    "tsx": "^4.23.15",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.6"
+  }
+}

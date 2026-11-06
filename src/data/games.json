@@ -1,0 +1,712 @@
+[
+  {
+    "slug": "acquire",
+    "bggId": null,
+    "name": "Acquire",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      4
+    ],
+    "playingTime": 90,
+    "weight": 2.5,
+    "rating": 7.2,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Economic"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "agricola",
+    "bggId": null,
+    "name": "Agricola",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      3,
+      4
+    ],
+    "playingTime": 150,
+    "weight": 3.6,
+    "rating": 7.9,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Animals",
+      "Economic",
+      "Farming",
+      "Medieval"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "ahoy",
+    "bggId": null,
+    "name": "Ahoy",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "animal-rescue",
+    "bggId": null,
+    "name": "Animal Rescue",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "arena-the-contest",
+    "bggId": null,
+    "name": "Arena: The Contest",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "attack-uno-flip",
+    "bggId": null,
+    "name": "Attack Uno Flip",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "bamboo-bash",
+    "bggId": null,
+    "name": "Bamboo Bash",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "between-two-castles-of-mad-king-ludwig",
+    "bggId": null,
+    "name": "Between Two Castles of Mad King Ludwig",
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "bestPlayers": [
+      4,
+      5
+    ],
+    "playingTime": 25,
+    "weight": 1.7,
+    "rating": 7.3,
+    "types": [
+      "Family"
+    ],
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Medieval"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "dead-of-winter-a-crossroads-game",
+    "bggId": null,
+    "name": "Dead of Winter: A Crossroads Game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "playingTime": 120,
+    "weight": 2.8,
+    "rating": 7.5,
+    "types": [
+      "Thematic"
+    ],
+    "categories": [
+      "Horror",
+      "Zombies",
+      "Survival"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "distilled",
+    "bggId": null,
+    "name": "Distilled",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "dune-imperium",
+    "bggId": null,
+    "name": "Dune: Imperium",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "playingTime": 120,
+    "weight": 3,
+    "rating": 8.4,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Deck, Bag, and Pool Building",
+      "Science Fiction"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "feed-the-kraken",
+    "bggId": null,
+    "name": "Feed the Kraken",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "first-flight",
+    "bggId": null,
+    "name": "First Flight",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "kanban-ev",
+    "bggId": null,
+    "name": "Kanban EV",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "libertalia-winds-of-galecrest",
+    "bggId": null,
+    "name": "Libertalia: Winds of Galecrest",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      4,
+      5
+    ],
+    "playingTime": 60,
+    "weight": 2.2,
+    "rating": 8,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Pirates",
+      "Nautical",
+      "Card Game"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "lightning-train",
+    "bggId": null,
+    "name": "Lightning Train",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "lost-ruins-of-arnak",
+    "bggId": null,
+    "name": "Lost Ruins of Arnak",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      2,
+      3
+    ],
+    "playingTime": 120,
+    "weight": 2.9,
+    "rating": 8.1,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Deck, Bag, and Pool Building"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "mercurial-alchemia",
+    "bggId": null,
+    "name": "Mercurial Alchemia",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "on-the-origin-of-species",
+    "bggId": null,
+    "name": "On the Origin of Species",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "outfoxed",
+    "bggId": null,
+    "name": "Outfoxed!",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3,
+      4
+    ],
+    "playingTime": 20,
+    "weight": 1,
+    "rating": 6.8,
+    "types": [
+      "Children's"
+    ],
+    "categories": [
+      "Deduction",
+      "Animals"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "pandemic",
+    "bggId": null,
+    "name": "Pandemic",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "playingTime": 45,
+    "weight": 2.4,
+    "rating": 7.6,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Medical"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "petrichor",
+    "bggId": null,
+    "name": "Petrichor",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "pirates-of-maracaibo",
+    "bggId": null,
+    "name": "Pirates of Maracaibo",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "playingTime": 90,
+    "weight": 3.3,
+    "rating": 8.1,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Nautical",
+      "Pirates"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "planet-unknown",
+    "bggId": null,
+    "name": "Planet Unknown",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "playingTime": 90,
+    "weight": 3,
+    "rating": 7.7,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "potion-explosion",
+    "bggId": null,
+    "name": "Potion Explosion",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "playingTime": 40,
+    "weight": 1.6,
+    "rating": 7,
+    "types": [
+      "Family"
+    ],
+    "categories": [
+      "Fantasy",
+      "Puzzle"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "railroad-ink-challenge-deep-blue-edition",
+    "bggId": null,
+    "name": "Railroad Ink Challenge: Deep Blue Edition",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      3,
+      4
+    ],
+    "playingTime": 20,
+    "weight": 1.5,
+    "rating": 7.6,
+    "types": [
+      "Family"
+    ],
+    "categories": [
+      "Dice",
+      "Puzzle",
+      "Transportation"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "robot-quest-arena",
+    "bggId": null,
+    "name": "Robot Quest Arena",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "rummikub",
+    "bggId": null,
+    "name": "Rummikub",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "playingTime": 60,
+    "weight": 1.1,
+    "rating": 6.9,
+    "types": [
+      "Family"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Number"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "save-a-world",
+    "bggId": null,
+    "name": "Save a World",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "tapestry",
+    "bggId": null,
+    "name": "Tapestry",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      3
+    ],
+    "playingTime": 120,
+    "weight": 3.1,
+    "rating": 7,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Civilization"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "the-castles-of-burgundy-special-edition",
+    "bggId": null,
+    "name": "The Castles of Burgundy: Special Edition",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      2,
+      3
+    ],
+    "playingTime": 90,
+    "weight": 3,
+    "rating": 8.3,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Dice",
+      "Medieval",
+      "Territory Building"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "the-godfather-corleone-s-empire",
+    "bggId": null,
+    "name": "The Godfather: Corleone's Empire",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "playingTime": 90,
+    "weight": 3,
+    "rating": 7.6,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Economic",
+      "Mafia",
+      "Area Majority / Influence"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "the-lord-of-the-rings-fate-of-the-fellowship",
+    "bggId": null,
+    "name": "The Lord of the Rings: Fate of the Fellowship",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "playingTime": 60,
+    "weight": 2.5,
+    "rating": 7.8,
+    "types": [
+      "Thematic"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Movies / TV / Radio theme"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "the-mind",
+    "bggId": null,
+    "name": "The Mind",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "playingTime": 20,
+    "weight": 1,
+    "rating": 7.1,
+    "types": [
+      "Family"
+    ],
+    "categories": [
+      "Card Game",
+      "Real-time"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "trailblazers",
+    "bggId": null,
+    "name": "Trailblazers",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "unmatched-battle-of-legends-volume-one",
+    "bggId": null,
+    "name": "Unmatched: Battle of Legends, Volume One",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "playingTime": 20,
+    "weight": 2.3,
+    "rating": 8.2,
+    "types": [
+      "Strategy"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Fighting"
+    ],
+    "coverUrl": null,
+    "verified": false
+  },
+  {
+    "slug": "wild-serengeti",
+    "bggId": null,
+    "name": "Wild: Serengeti",
+    "minPlayers": null,
+    "maxPlayers": null,
+    "bestPlayers": [],
+    "playingTime": null,
+    "weight": null,
+    "rating": null,
+    "types": [],
+    "categories": [],
+    "coverUrl": null,
+    "verified": false
+  }
+]
